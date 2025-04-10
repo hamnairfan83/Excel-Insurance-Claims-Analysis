@@ -1,4 +1,5 @@
-                                               # 📊 Insurance Claims Analysis and Customer Segmentation Dashboard
+# 📊 **Insurance Claims Analysis and Customer Segmentation Dashboard**
+
 
 This interactive Excel dashboard provides a visual analysis of **insurance claims**, segmented by **policy type** and **claim status**, offering clear insights into customer behavior and claim trends over time.
 
